@@ -1,0 +1,27 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration
+.env
+*.log
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# MATLAB autosave file 
+*.asv
+
